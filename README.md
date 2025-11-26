@@ -1,73 +1,53 @@
-<h1 align="center">Hi, I'm Mohamed Salah 👋</h1>
-
-<p align="center">
-  <b>Senior Full-Stack JavaScript Developer</b> — React • Next.js • Node.js • Express • MongoDB • TypeScript  
-</p>
-
----
+## Full-Stack + AI Developer — React • Next.js | Node.js | Python | OpenAI | Django | LangChain
 
 ### 🚀 About Me  
-I’m a Senior Full-Stack Developer with 5+ years of experience building scalable, modern web applications for startups, enterprise SaaS platforms, and government-level digital transformation projects.
+I’m a Full-Stack + AI Developer with 5+ years of production experience building modern, intelligent, and scalable web applications for startups, enterprise SaaS, and government digital-transformation projects.
 
-I work across the full stack — designing clean UI architectures, building secure REST APIs, integrating payments, managing cloud deployments, and maintaining high-performance apps used by thousands.
+I ship end-to-end solutions: pixel-perfect React/Next.js frontends, secure Node.js/Python backends, AI-powered features (chatbots, RAG search, document summarization, smart forms), payment systems, and cloud deployments used by thousands daily.
 
----
+### 💼 Areas of Expertise
 
-### 🧠 What I Do  
-- **Frontend Development:** React, Next.js, Tailwind, React Query, Redux, Vite  
-- **Backend Development:** Node.js, Express.js, REST APIs, JWT/Auth, Stripe  
-- **Databases:** MongoDB, PostgreSQL, MySQL, Redis  
-- **Cloud & DevOps:** Docker, CI/CD, Vercel, Netlify, Render, Heroku  
-- **Specialties:**  
-  - Scalable admin panels & dashboards  
-  - Subscription & payment integrations (Stripe)  
-  - PWA development (offline caching, manifest, service workers)  
-  - Full-stack SaaS architectures  
-  - Performance optimization & code quality (ESLint, Prettier)
+**Frontend**
+- React 18, Next.js 14 (App Router), TypeScript, Tailwind CSS, shadcn/ui
+- React Query, Zustand, Redux Toolkit
+- PWA, Lighthouse 95–100, WCAG accessibility
 
----
+**Backend & APIs**
+- Node.js, Express.js, NestJS, Python (Django / FastAPI / Flask)
+- REST & GraphQL APIs, JWT/OAuth, Stripe subscriptions
 
-### 🏢 Experience  
-- **National Telecommunication Institute (NTI)** — Full-Stack/AI Developer  
-- **Turnkii (Remote)** — Frontend Architect for Admin Panel  
-- **Naukrigulf (Dubai)** — Full-Stack Developer  
-- **Freelancer** — Full-stack developer for businesses & startups  
+**AI & Machine Learning Stack** (production-ready)
+- OpenAI, Claude, Gemini APIs
+- LangChain / LlamaIndex – RAG pipelines, agents, memory
+- Vector databases (Pinecone, Weaviate, Supabase vecs)
+- Streaming responses, function calling, prompt engineering
+- Fine-tuned models & custom embeddings
+- Retrieval-augmented generation, document QA, smart search
 
----
+**Databases & DevOps**
+- MongoDB, PostgreSQL, Redis, Supabase
+- Docker, GitHub Actions CI/CD, Vercel, Render, AWS
 
-### 🛠 Tech Stack  
+**Specialties**
+- AI-enhanced dashboards & admin panels
+- Chatbots with streaming UI + sources
+- Smart dynamic forms & auto-summarization
+- Subscription SaaS with AI features
+- Rescuing & scaling half-finished projects
 
-#### **Frontend**
-React • Next.js • Vite • Redux • React Query • Tailwind CSS • MUI • SCSS  
-React Native • Vue.js • Nuxt.js  
+### ⚡ What I am looking for
+Long-term or project-based roles where I can combine beautiful frontends with real, working AI that adds business value.
 
-#### **Backend**
-Node.js • Express.js • NestJS • REST APIs • JWT/Auth • Stripe API  
+### 📩 **Let's Connect!**
 
-#### **Databases**
-MongoDB (Atlas) • PostgreSQL • MySQL • Redis • Firebase  
-
-#### **Tools & DevOps**
-Docker • Git/GitHub • CI/CD • Vercel • Netlify • Render • Heroku  
-
-#### **Languages**
-JavaScript • TypeScript • Python • Rust • C/C++ • C#  
-
----
-
-### 📈 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=2-rust&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2-rust&layout=compact&theme=tokyonight" height="150" />
+<p >
+  <a href="https://merndev.space/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=vercel" alt="Portfolio Badge" />
+  </a>
+  <a href="mailto:hsalahxxxc@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" alt="Email Badge" />
+  </a>
+  <a href="https://linkedin.com/in/www.linkedin.com/in/mohamed-salah-b83323184" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge" />
+  </a>
 </p>
-
----
-
-### 🌐 Connect With Me  
-- **Email:** hsalahxxc@gmail.com  
-- **LinkedIn:** *(add your link here)*  
-- **Upwork:** *(add your profile link)*  
-
----
-
-⭐ **If you like my work, consider giving a star to some repos — it helps!**
